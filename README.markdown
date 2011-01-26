@@ -5,7 +5,8 @@ Put twitter on your website with tweet!, an unobtrusive javascript plugin for jq
 ## [cdzombak's fork](http://github.com/cdzombak/tweet)
 
   * adds option to turn user linking off
-  * adds opyion to turn hashtag linking off
+  * adds option to turn hashtag linking off
+  * moves date from before to after the tweet
 
 ## Demo
 
